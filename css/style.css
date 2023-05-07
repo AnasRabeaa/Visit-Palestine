@@ -704,7 +704,7 @@ padding: 183px e;
 
 
 .example-2 .wrapper {
-  background: url(/images/sripada.jpg) center/cover no-repeat;
+  background: url(./images/sripada.jpg) center/cover no-repeat;
 }
 
 .example-2 .wrapper:hover .menu-content span {
@@ -779,7 +779,7 @@ padding: 183px e;
 }
 
 /* .example-2 .wrapper .rd {
-  background: url(/images/perahera.jpg) center/cover no-repeat;
+  background: url(./images/perahera.jpg) center/cover no-repeat;
   z-index: 5;
 } */
 
